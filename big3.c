@@ -5,7 +5,7 @@ void big3() {
     float num, max;
 
     // Asking for the count of numbers
-    printf("\nEnter the count of numbers: ");
+    printf("\n\n\nEnter the count of numbers: ");
     scanf("%d", &n);
 
     // Check if the count of numbers is positive
